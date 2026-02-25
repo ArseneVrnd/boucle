@@ -1,0 +1,12 @@
+{
+  "name": "boucle",
+  "version": "1.0.0",
+  "description": "Context checkpoint system for multi-session workflows. Summarizes completed work, current state, and next steps so you can safely clear context between phases.",
+  "author": {
+    "name": "Arsene",
+    "url": "https://github.com/ArseneVrnd"
+  },
+  "repository": "https://github.com/ArseneVrnd/Boucle",
+  "license": "MIT",
+  "keywords": ["context", "checkpoint", "loop", "session", "workflow", "boucle", "multi-phase"]
+}
